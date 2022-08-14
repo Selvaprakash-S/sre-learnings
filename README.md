@@ -1,2 +1,5 @@
 # sre-learnings
-sre
+## SRE
+
+#Python Basics
+1. python variables
