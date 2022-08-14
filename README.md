@@ -1,5 +1,6 @@
 # SRE LEARNING
 ## Python Basics 
+#### Week 1 ->  15-AUG-2022 to 19-AUG-2022
 __Variables__ </br>
 __Operators__ </br>
 __Flow control__ </br>
@@ -13,7 +14,9 @@ __return values__</br>
 __generators functions__ </br>
 __comprehensions functions__ </br>
 __Built-in library functions (only important functions) split(), enumerate(), eval(), round(), max(), sort(), min(), append(), range(), strip(), sorted()__ </br>
-__Classes-__ </br>
+
+#### Week 2 ->  22-AUG-2022 to 26-AUG-2022
+__Classes__ </br>
 __init method__ </br>
 __Regex__ </br>
 __The re module__ </br>
@@ -29,9 +32,12 @@ __Unit test (Writing test cases)__ </br>
 __unittest, pytest module__ </br>
 
 ## Linux
+#### Week 1 ->  15-AUG-2022 to 19-AUG-2022
 __Linux Architecture__ </br>
 __Shell vs Terminal__ </br>
 __An introduction to the Linux boot and startup processes__ </br>
+
+#### Week 2 ->  22-AUG-2022 to 26-AUG-2022
 __What happens when we turn on computer?__ </br>
 __What happens when you type in ‘www.cnn.com’ in your browser?__ </br>
 __Basic Commands__ </br>
@@ -47,6 +53,7 @@ __Filesystem and storage device management__ </br>
 __The logging system__ </br>
 
 ## AWS
+#### Week 1 ->  15-AUG-2022 to 19-AUG-2022
 __CloudFormation__ </br>
 
 ## Ref : 
