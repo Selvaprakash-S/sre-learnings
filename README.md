@@ -29,25 +29,25 @@ __Unit test (Writing test cases)__ </br>
 __unittest, pytest module__ </br>
 
 ## Linux
-__Linux Architecture__
-__Shell vs Terminal__
-__An introduction to the Linux boot and startup processes__
-__What happens when we turn on computer?__
-__What happens when you type in ‘www.cnn.com’ in your browser?__
-__Basic Commands__
-__FileSystem__
-__Text Manipulation__
-__Controlling File and Directory Permission__
-__Process Management__
-__Scheduling Process__
-__Managing user environment variables__
-__Bash Scripting__
-__Compressing and Archieving__
-__Filesystem and storage device management__
-__The logging system__
+__Linux Architecture__ </br>
+__Shell vs Terminal__ </br>
+__An introduction to the Linux boot and startup processes__ </br>
+__What happens when we turn on computer?__ </br>
+__What happens when you type in ‘www.cnn.com’ in your browser?__ </br>
+__Basic Commands__ </br>
+__FileSystem__ </br>
+__Text Manipulation__ </br>
+__Controlling File and Directory Permission__ </br>
+__Process Management__ </br>
+__Scheduling Process__ </br>
+__Managing user environment variables__ </br>
+__Bash Scripting__ </br>
+__Compressing and Archieving__ </br>
+__Filesystem and storage device management__ </br>
+__The logging system__ </br>
 
 ## AWS
-__CloudFormation__
+__CloudFormation__ </br>
 
 ## Ref : 
 __https://github.com/mxssl/sre-interview-prep-guide__
