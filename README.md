@@ -37,6 +37,9 @@ __Linux Architecture__ </br>
 __Shell vs Terminal__ </br>
 __An introduction to the Linux boot and startup processes__ </br>
 
+## Ref :
+RHEL 9 Doc: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9
+
 #### Week 2 ->  22-AUG-2022 to 26-AUG-2022
 __What happens when we turn on computer?__ </br>
 __What happens when you type in ‘www.cnn.com’ in your browser?__ </br>
